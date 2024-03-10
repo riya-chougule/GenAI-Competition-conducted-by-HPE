@@ -17,8 +17,14 @@ Through this comprehensive workflow, the chatbot seamlessly delivers accurate an
 
 
 
+
+
 *System architecture*
+
+
 ![Code Crafters- Final Presentation](https://github.com/riya-chougule/GenAI-Competition-conducted-by-HPE/assets/60813327/735a270b-d523-41af-a8bc-e65273e76666)
+
+
 
 
 
