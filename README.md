@@ -14,6 +14,10 @@ The project workflow encompasses the following steps:
      
 Through this comprehensive workflow, the chatbot seamlessly delivers accurate and pertinent responses, leveraging FDA Drug guidelines and facilitating enhanced accessibility and usability through the Gradio interface
 
+
+
+
+
 User Interface of RegulEase
 
 <img width="1289" alt="Screenshot 2024-03-07 at 10 51 25 PM" src="https://github.com/riya-chougule/GenAI-Competition-conducted-by-HPE/assets/60813327/0f9b5297-d0bc-479e-a632-35039b26985c">
