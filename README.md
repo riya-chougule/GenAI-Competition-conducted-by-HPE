@@ -1,6 +1,6 @@
 # GenAI-Competition-conducted-by-HPE
 
-This repository includes a sophisticated chatbot, empowered by Retrieval Augmented Generation technology and fortified with FDA (Food and Drug Administration) Drug guidelines. Given the FDA's consistent release of thousands of guidelines annually, with over 2100 documents dedicated solely to drugs, our chatbot significantly streamlines user interactions, sparing users the laborious task of manually navigating extensive documentation.
+This repository includes Python notebooks for generating a sophisticated chatbot, RegulEase, empowered by Retrieval Augmented Generation technology and fortified with FDA (Food and Drug Administration) Drug guidelines. Given the FDA's consistent release of thousands of guidelines annually, with over 2100 documents dedicated solely to drugs, our chatbot significantly streamlines user interactions, sparing users the laborious task of manually navigating extensive documentation.
 
 The project workflow encompasses the following steps:
   1. Segmentation of FDA drug guideline PDF documents into multiple data chunks.
@@ -14,3 +14,6 @@ The project workflow encompasses the following steps:
      
 Through this comprehensive workflow, the chatbot seamlessly delivers accurate and pertinent responses, leveraging FDA Drug guidelines and facilitating enhanced accessibility and usability through the Gradio interface
 
+User Interface of RegulEase
+
+<img width="1289" alt="Screenshot 2024-03-07 at 10 51 25 PM" src="https://github.com/riya-chougule/GenAI-Competition-conducted-by-HPE/assets/60813327/0f9b5297-d0bc-479e-a632-35039b26985c">
