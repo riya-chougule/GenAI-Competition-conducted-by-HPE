@@ -1,1 +1,16 @@
 # GenAI-Competition-conducted-by-HPE
+
+This repository includes a sophisticated chatbot, empowered by Retrieval Augmented Generation technology and fortified with FDA (Food and Drug Administration) Drug guidelines. Given the FDA's consistent release of thousands of guidelines annually, with over 2100 documents dedicated solely to drugs, our chatbot significantly streamlines user interactions, sparing users the laborious task of manually navigating extensive documentation.
+
+The project workflow encompasses the following steps:
+  1. Segmentation of FDA drug guideline PDF documents into multiple data chunks.
+  2. Conversion of PDF documents into text embeddings using the text-embedding-ada-002 model.
+  3. Storage of embeddings in the Chroma vector database.
+  4. Retrieval of user input queries in text format.
+  5. Conversion of textual input queries into text embeddings.
+  6. Execution of vector similarity search (Cosine similarity) to identify relevant data chunks akin to the user's query.
+  7. Integration of user input queries and relevant data chunks, subsequently fed into the Large Language Model (GPT 3.5 Turbo) for sentence formulation.
+  8. Presentation of results to the user in a user-friendly interface.
+     
+Through this comprehensive workflow, the chatbot seamlessly delivers accurate and pertinent responses, leveraging FDA Drug guidelines and facilitating enhanced accessibility and usability through the Gradio interface
+
